@@ -1,0 +1,11 @@
+id,first_name,last_name,email,age,gender,state,street_address,postal_code,city,country,latitude,longitude,traffic_source,created_at
+1,"Robert","Miller","robertmiller@example.net",49,"M","Pernambuco","796 Paul Square","55730-000","null","Brasil","-7.789139764","-35.59356803","Facebook","2022-10-24 16:25:00"
+2,"Brian","Harrington","brianharrington@example.com",33,"M","Cataluña","483 Herrera Shoal Apt. 690","8921","Santa Coloma de Gramanet","Spain","41.4545347","2.211017966","Organic","2023-09-06 09:01:00"
+3,"Ashley","Collins","ashleycollins@example.net",66,"F","Victoria","285 Jackson Highway Apt. 435","3198","Melbourne","Australia","-38.10470604","145.1384975","Search","2022-09-30 12:21:00"
+4,"Allison","Goodwin","allisongoodwin@example.net",38,"F","Michigan","816 Wanda Burg","49441","Norton Shores","United States","43.18271886","-86.28566817","Organic","2023-10-11 11:05:00"
+5,"Rachel","Robinson","rachelrobinson@example.net",38,"F","California","273 Brittney Points Apt. 197","91354","Santa Clarita","United States","34.45668764","-118.5582902","Search","2021-12-10 05:53:00"
+6,"Jake","Franco","jakefranco@example.com",16,"M","North Carolina","53753 Kelly Forest Apt. 753","27513","Cary","United States","35.81563248","-78.79467112","Search","2023-05-20 09:19:00"
+7,"Alexander","Golden","alexandergolden@example.com",54,"M","Amapá","4157 Rush Fields","68908","Macapá","Brasil","0.05520205505","-51.05580532","Facebook","2022-09-21 11:55:00"
+8,"Amanda","Thomas","amandathomas@example.com",56,"F","Pará","2375 Sullivan Groves","68560-000","Barreira do Campo","Brasil","-9.364119434","-50.61119911","Search","2025-11-04 02:35:51.700265"
+9,"Timothy","Brady","timothybrady@example.net",61,"M","Gyeonggi-do","05306 Castaneda Fork","448-160","Yongin City","South Korea","37.32917229","127.1227357","Search","2025-11-03 06:40:51.708528"
+10,"Tiffany","Moore","tiffanymoore@example.com",56,"F","Oregon","3592 Fred Port","97128","McMinnville","United States","45.20266025","-123.2678287","Email","2021-04-04 14:12:00"

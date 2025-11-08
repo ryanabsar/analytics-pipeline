@@ -1,0 +1,12 @@
+id,order_id,user_id,product_id,inventory_item_id,status,created_at,shipped_at,delivered_at,returned_at,sale_price,event_type,ip_address,browser,traffic_source,session_id,sequence_number,uri,is_sold
+1,1,1,"18431",4,"Cancelled","2023-08-26 14:57:00","","","","25.0","purchase","102.22.24.69","Chrome","Email","00571567-4a4f-4891-9c39-73b2c64d1cce",5,"/purchase",False
+2,2,2,"26945",6,"Shipped","2025-03-26 05:39:51","2025-03-24 20:02:00","","","83.91999816894531","purchase","176.120.198.51","Chrome","Email","1644cbfc-f3d2-4a22-95c7-775299945ced",7,"/purchase",False
+3,2,2,"23463",10,"Shipped","2025-03-24 08:09:41","2025-03-24 20:02:00","","","79.0","purchase","14.223.216.185","Chrome","Email","c2e0b941-c273-4849-aefd-2752e75ce667",7,"/purchase",False
+4,3,3,"15689",13,"Shipped","2024-03-20 08:42:13","2024-03-22 16:43:00","","","28.0","purchase","219.242.146.60","Chrome","Email","3ff42bba-23a3-4a2a-a438-4168344d8c63",5,"/purchase",False
+5,4,4,"14090",17,"Cancelled","2025-01-01 10:17:09","","","","209.94999694824216","purchase","18.81.156.229","Safari","Adwords","acea6bd4-fee4-4065-be5e-1ced7b92b454",5,"/purchase",False
+6,5,5,"15852",21,"Shipped","2022-06-20 04:22:47","2022-06-22 04:23:00","","","16.5","purchase","181.223.255.30","Chrome","Email","46dee23d-9765-475a-b679-17cf7ee5816a",5,"/purchase",False
+7,6,5,"856",23,"Processing","2025-01-14 02:19:24","","","","19.989999771118164","purchase","201.160.194.30","Chrome","Adwords","180af300-21e9-4d1c-b29a-591e6c7a59b1",5,"/purchase",False
+8,7,6,"22219",25,"Returned","2023-12-28 06:02:05","2023-12-26 17:16:00","2023-12-28 12:09:00","2023-12-29 04:33:00","57.630001068115234","purchase","111.240.247.0","Firefox","Adwords","e6deb995-dfe1-4b19-a167-e7fb055d89a4",7,"/purchase",False
+9,7,6,"18269",28,"Returned","2023-12-28 07:33:00","2023-12-26 17:16:00","2023-12-28 12:09:00","2023-12-29 04:33:00","55.0","purchase","17.85.252.31","IE","YouTube","05ef9ed2-7bd8-45c7-8c7e-04e55f80f49a",7,"/purchase",False
+10,8,7,"23184",31,"Shipped","2025-09-21 09:33:54","2025-09-22 01:30:00","","","55.0","purchase","211.182.5.51","Other","Email","88feed90-aaa1-47b4-96e2-267a0cf95506",5,"/purchase",False
+11,9,10,"15876",33,"Shipped","2022-10-24 11:08:06","2022-10-26 00:25:00","","","14.989999771118164","purchase","21.157.207.54","Chrome","Email","77a2e73a-2b56-4cb8-9cdd-4a74741654d4",5,"/purchase",False
