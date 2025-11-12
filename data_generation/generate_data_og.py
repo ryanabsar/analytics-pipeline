@@ -833,8 +833,8 @@ class GhostEvents(DataUtil):
 if __name__ == "__main__":
     logging.getLogger().setLevel(logging.INFO)
     main(
-        num_of_users=int(10),
-        num_of_ghost_events=int(100),
+        num_of_users=int(10000),
+        num_of_ghost_events=int(2),
         target_gcs_prefix=str(1),
         target_gcs_bucket=str(1),
         source_dir="output",

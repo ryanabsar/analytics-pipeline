@@ -212,6 +212,7 @@ dependencies = [
     { name = "numpy" },
     { name = "pandas" },
     { name = "pip" },
+    { name = "python-dotenv" },
 ]
 
 [package.metadata]
@@ -226,6 +227,7 @@ requires-dist = [
     { name = "numpy", specifier = ">=2.3.4" },
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "pip", specifier = ">=25.3" },
+    { name = "python-dotenv", specifier = ">=1.2.1" },
 ]
 
 [[package]]
